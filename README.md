@@ -71,3 +71,6 @@ The main goal is to evaluate employee sentiment and engagement by performing the
 - **Matplotlib**, **Seaborn**
 - **Scikit-learn**
 
+### Updates made to initial analysis
+- A different model was used for sentiment classification which was trained on financial and corporate text resulting in
+ RMSE: 1.269 and R² Score: -0.059
